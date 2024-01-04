@@ -11,7 +11,6 @@ def get_books(filepath='books.json'):
 
 
 def on_reload(books):
-    books = get_books('25books_json.json')
     env = Environment(
         loader=FileSystemLoader('.'),
         autoescape=select_autoescape(['html', 'xml'])
@@ -27,7 +26,7 @@ def main():
     on_reload(books)
 
     server = Server()
-    server.watch('index.html', on_reload)
+    server.watch('template.html', lambda: on_reload(books))
     server.serve(root='.')
 
 
