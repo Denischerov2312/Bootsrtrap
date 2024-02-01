@@ -10,7 +10,25 @@
 
     <title>Hello, world!</title>
   </head>
+
   <body>
+
+    <div class="mx-auto" style="width: 200px;"
+      <nav aria-label="Page navigation example">
+        <ul class="pagination justify-content-end"  >
+          <li class="page-item disabled">
+            <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>
+          </li>
+          {% for number in range(0, count_page) %}
+          <li class="page-item"><a class="page-link" href="../pages/index{{number}}.html">{{number}}</a></li>
+          {% endfor %}
+          <li class="page-item">
+            <a class="page-link" href="#">Next</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+
     <div class="container">
       <div class="row">
       {% for iterable_books in books %}
@@ -26,7 +44,7 @@
                   <p class="card-text">
                     <a href="{{book.book_path}}" target="_blank">Читать</a>
                   </p>
-                  <p class="card-text"><small class="text-muted">Last updated 5 mins ago</small></p>
+                  <p class="card-text"><small class="text-muted">Last updated 6 mins ago</small></p>
                 </div>
               </div>
             </div>
