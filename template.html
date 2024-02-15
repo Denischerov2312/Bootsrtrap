@@ -53,10 +53,12 @@
               <div class="col-md-8">
                 <div class="card-body">
                   <h5 class="card-title">{{book.title}}</h5>
+                  {% for genre in book.genres %}
+                    <span class="badge badge-pill badge-light">{{genre}}</span>
+                  {% endfor %}
                   <p class="card-text">
                     <a href="{{book.book_path}}" target="_blank">Читать</a>
                   </p>
-                  <p class="card-text"><small class="text-muted">Last updated 6 mins ago</small></p>
                 </div>
               </div>
             </div>
