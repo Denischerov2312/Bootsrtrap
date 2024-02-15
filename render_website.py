@@ -26,7 +26,7 @@ def split_and_save_page_books(books):
         filepath = f'pages/index{number}.html'
         rendered_page = template.render(books=chunked(page, 2),
                                         count_page=count_page,
-                                        current_page=1,
+                                        current_page=number,
                                         )
         with open(filepath, 'w', encoding="utf8") as file:
             file.write(rendered_page)
