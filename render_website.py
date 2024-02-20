@@ -49,7 +49,7 @@ def on_reload(books):
 
 
 def main():
-    books = get_books('100books_json.json')
+    books = get_books('25books_json.json')
     split_and_save_page_books(books)
     server = Server()
     server.watch('template.html', lambda: on_reload(books))
