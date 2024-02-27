@@ -1,6 +1,8 @@
+*.json
+
 /pages
 /parse_result
-index.html
+index.*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
