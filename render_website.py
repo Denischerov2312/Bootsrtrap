@@ -8,8 +8,7 @@ from more_itertools import chunked
 
 def get_books(filepath):
     with open(filepath, 'r', encoding="utf8") as books_file:
-        books_json = books_file.read()
-    books = json.loads(books_json)
+        books = json.loads(books_file.read())
     return books
 
 
