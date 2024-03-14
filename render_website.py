@@ -21,8 +21,10 @@ def split_and_save_page_books(books):
     os.makedirs('pages/', exist_ok=True)
     pages_of_book = chunked(books, 14)
     count_page = ceil(len(books) / 14)
-    for number, page in enumerate(pages_of_book):
+    for number, page in enumerate(pages_of_book, 1):
         filepath = f'pages/index{number}.html'
+        if number == 1:
+            filepath = 'pages/index.html'
         rendered_page = template.render(books=chunked(page, 2),
                                         count_page=count_page,
                                         current_page=number,
@@ -48,7 +50,7 @@ def on_reload(books):
 
 
 def main():
-    books = get_books('25books_json.json')
+    books = get_books('125books_json.json')
     split_and_save_page_books(books)
     server = Server()
     server.watch('template.html', lambda: on_reload(books))
