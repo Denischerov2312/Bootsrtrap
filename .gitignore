@@ -1,7 +1,7 @@
 *.json
 
-/pages
-/parse_result
+
+
 index.*
 # Byte-compiled / optimized / DLL files
 __pycache__/
