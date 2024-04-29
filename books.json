@@ -13,8 +13,8 @@
             "Очень поучительное для ребенка 10 лет."
         ],
         "image_url": "https://tululu.org/shots/239.jpg",
-        "book_path": "parse_result/books/239.Алиби.txt",
-        "img_path": "parse_result/book_covers/239.jpg"
+        "book_path": "media/books/239.Алиби.txt",
+        "img_path": "media/book_covers/239.jpg"
     },
     {
         "title": "Бич небесный",
@@ -34,8 +34,8 @@
             "Супер ^_^."
         ],
         "image_url": "https://tululu.org/shots/550.jpg",
-        "book_path": "parse_result/books/550.Бич небесный.txt",
-        "img_path": "parse_result/book_covers/550.jpg"
+        "book_path": "media/books/550.Бич небесный.txt",
+        "img_path": "media/book_covers/550.jpg"
     },
     {
         "title": "Цена посвящения: Серый Ангел",
@@ -49,8 +49,8 @@
             "Понравилось. Немного политизированности создает специфические ассоциации по восприятию произведения. Не скажу что \"отпад как классно\", но интересно читать. Фантастики как таковой нет, но от этого детектив хуже не стал."
         ],
         "image_url": "https://tululu.org/shots/768.jpg",
-        "book_path": "parse_result/books/768.Цена посвящения Серый Ангел.txt",
-        "img_path": "parse_result/book_covers/768.jpg"
+        "book_path": "media/books/768.Цена посвящения Серый Ангел.txt",
+        "img_path": "media/book_covers/768.jpg"
     },
     {
         "title": "Цена посвящения: Время Зверя",
@@ -65,8 +65,8 @@
             "Это не фантастика, а реальность, включая психотропное оружие.\n  Опечатки - вместо Ирак, следует читать - Иран.\n  Недостатки: не указан противник Белого ордена; нас ставят на порог \"белого квадрата\", но новых идей не дают..."
         ],
         "image_url": "https://tululu.org/shots/769.jpg",
-        "book_path": "parse_result/books/769.Цена посвящения Время Зверя.txt",
-        "img_path": "parse_result/book_covers/769.jpg"
+        "book_path": "media/books/769.Цена посвящения Время Зверя.txt",
+        "img_path": "media/book_covers/769.jpg"
     },
     {
         "title": "Дело Джен, или Эйра немилосердия",
@@ -77,8 +77,8 @@
         ],
         "comments": [],
         "image_url": "https://tululu.org/shots/1131.jpg",
-        "book_path": "parse_result/books/1131.Дело Джен, или Эйра немилосердия.txt",
-        "img_path": "parse_result/book_covers/1131.jpg"
+        "book_path": "media/books/1131.Дело Джен, или Эйра немилосердия.txt",
+        "img_path": "media/book_covers/1131.jpg"
     },
     {
         "title": "Фабрика дьявола",
@@ -95,8 +95,8 @@
             "Не увлекает, скучновато, изобилует \"научными терминами-вымыслами\"."
         ],
         "image_url": "https://tululu.org/shots/1715.jpg",
-        "book_path": "parse_result/books/1715.Фабрика дьявола.txt",
-        "img_path": "parse_result/book_covers/1715.jpg"
+        "book_path": "media/books/1715.Фабрика дьявола.txt",
+        "img_path": "media/book_covers/1715.jpg"
     },
     {
         "title": "Говорящий камень",
@@ -116,8 +116,8 @@
             "Азимов-талант, предвидевший многие открытия, а также будущее Земли как экосистемы, подвергающейся опасности. Читала и буду перечитывать. Спасибо!!!!"
         ],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/1987.Говорящий камень.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/1987.Говорящий камень.txt",
+        "img_path": "media/book_covers/nopic.gif"
     },
     {
         "title": "И Он пришел... ИТ-роман",
@@ -149,8 +149,8 @@
             "С удовольствием прочитала эту книгу. Рекомендую."
         ],
         "image_url": "https://tululu.org/shots/2043.jpg",
-        "book_path": "parse_result/books/2043.И Он пришел... ИТ-роман.txt",
-        "img_path": "parse_result/book_covers/2043.jpg"
+        "book_path": "media/books/2043.И Он пришел... ИТ-роман.txt",
+        "img_path": "media/book_covers/2043.jpg"
     },
     {
         "title": "Казнить нельзя помиловать",
@@ -163,8 +163,8 @@
             "Стоит прочесть, несмотря на кое-гдешные замудрёносушности))"
         ],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/2531.Казнить нельзя помиловать.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/2531.Казнить нельзя помиловать.txt",
+        "img_path": "media/book_covers/nopic.gif"
     },
     {
         "title": "Ночь, которая умирает",
@@ -184,8 +184,8 @@
             "Спасибо за возможность прочитать этот рассказ. Достаточно интересная гипотеза, и как всегда у Азимова, попутно много интересных фактов о других мирах."
         ],
         "image_url": "https://tululu.org/shots/4024.jpg",
-        "book_path": "parse_result/books/4024.Ночь, которая умирает.txt",
-        "img_path": "parse_result/book_covers/4024.jpg"
+        "book_path": "media/books/4024.Ночь, которая умирает.txt",
+        "img_path": "media/book_covers/4024.jpg"
     },
     {
         "title": "Нырок в забвение",
@@ -199,8 +199,8 @@
             "Автору: Хенрик РичардYan Smit 25. 09. 2011 13:29:15 (перенесено)Нырок в забвение:: Хенрик Ричард Это не фантастика, это какая-то пропагандистская агитка( Автор не шарит в науках, но пишет о них - простительно. Автор не военный, но сочиняет на околовоенные темы - плевать. Но как у него русский КАПИТАН, прошедший войну, вдруг решил в жизни \"плыть по течению\"???! Автор, что, русских только по своим газетам, да по нашим москвичам видел? А \"океанолог Ирина\", через каждые пять минут ругающая перед иностранцами своё, советское, откуда взялась? Что за гибрид проститутки с инопланетянином? В любом народе люди между собой по костям разложат и своё и своих, но перед чужими - хрен! Ни француз, ни американец, ни, тем более русский - СВОЁ перед чужими никогда опускать не станет. В общем, персонажи картонные, действо надуманное, и книжонку \"вытягивает\" только сюжет и как-бы современность. Ощущения при чтении - чтиво на раз. Долистать, плюнуть, и повесить в общественном туалете деревенском."
         ],
         "image_url": "https://tululu.org/shots/4102.jpg",
-        "book_path": "parse_result/books/4102.Нырок в забвение.txt",
-        "img_path": "parse_result/book_covers/4102.jpg"
+        "book_path": "media/books/4102.Нырок в забвение.txt",
+        "img_path": "media/book_covers/4102.jpg"
     },
     {
         "title": "Поющий колокольчик",
@@ -215,8 +215,8 @@
             "Какое поэтичное описание этих поющих колокольчиков! Очень захотелось их услышать. Спасибо за возможность прочитать эти рассказы - я очень люблю Азимова, но эти рассказы прочитала впервые."
         ],
         "image_url": "https://tululu.org/shots/4876.jpg",
-        "book_path": "parse_result/books/4876.Поющий колокольчик.txt",
-        "img_path": "parse_result/book_covers/4876.jpg"
+        "book_path": "media/books/4876.Поющий колокольчик.txt",
+        "img_path": "media/book_covers/4876.jpg"
     },
     {
         "title": "Продается тело Христа",
@@ -234,8 +234,8 @@
             "Книга очень понравилась. Сюжет конечно местами предсказуем, но написано очень и очень неплохо. На слезу пробивает и героям сопереживаешь искренне. Концовка позитивная но книгу не портит. Самое главное, что сюжет заставляет задуматься \"кто ты в этом мире\"; \"что ты сделал хорошего\"; \"веришь ли ты\". Всем нормальным людям рекомендую! Останется в памяти."
         ],
         "image_url": "https://tululu.org/shots/5299.jpg",
-        "book_path": "parse_result/books/5299.Продается тело Христа.txt",
-        "img_path": "parse_result/book_covers/5299.jpg"
+        "book_path": "media/books/5299.Продается тело Христа.txt",
+        "img_path": "media/book_covers/5299.jpg"
     },
     {
         "title": "Роковой поцелуй",
@@ -247,8 +247,8 @@
         ],
         "comments": [],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/5648.Роковой поцелуй.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/5648.Роковой поцелуй.txt",
+        "img_path": "media/book_covers/nopic.gif"
     },
     {
         "title": "Те, кто против нас",
@@ -268,8 +268,8 @@
             "Это антигосударственное вредное чтиво. Надо немедленно запретить."
         ],
         "image_url": "https://tululu.org/shots/6758.jpg",
-        "book_path": "parse_result/books/6758.Те, кто против нас.txt",
-        "img_path": "parse_result/book_covers/6758.jpg"
+        "book_path": "media/books/6758.Те, кто против нас.txt",
+        "img_path": "media/book_covers/6758.jpg"
     },
     {
         "title": "Телепортеры, внимание!",
@@ -280,8 +280,8 @@
         ],
         "comments": [],
         "image_url": "https://tululu.org/shots/6766.jpg",
-        "book_path": "parse_result/books/6766.Телепортеры, внимание!.txt",
-        "img_path": "parse_result/book_covers/6766.jpg"
+        "book_path": "media/books/6766.Телепортеры, внимание!.txt",
+        "img_path": "media/book_covers/6766.jpg"
     },
     {
         "title": "Зодиак",
@@ -294,20 +294,8 @@
             "ооооо, великая оранжевая серия!!! Большая часть из этой линии застревает и в душе, и в голове надолго))) \r\nнадеюсь и эта книга произведет на меня такое же сильное впечатление, как и другие оранжевые%)))"
         ],
         "image_url": "https://tululu.org/shots/8283.jpg",
-        "book_path": "parse_result/books/8283.Зодиак.txt",
-        "img_path": "parse_result/book_covers/8283.jpg"
-    },
-    {
-        "title": "Der Schwarm",
-        "author": "Schaetzing Frank",
-        "genres": [
-            "Научная фантастика",
-            "Триллеры"
-        ],
-        "comments": [],
-        "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/8283.Зодиак.txt",
-        "img_path": "parse_result/book_covers/8283.jpg"
+        "book_path": "media/books/8283.Зодиак.txt",
+        "img_path": "media/book_covers/8283.jpg"
     },
     {
         "title": "Justitia - est Часть 1",
@@ -318,20 +306,8 @@
         ],
         "comments": [],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/8559.Justitia - est Часть 1.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
-    },
-    {
-        "title": "Lost in a Good Book",
-        "author": "Fforde Jasper",
-        "genres": [
-            "Научная фантастика",
-            "Прочие Детективы"
-        ],
-        "comments": [],
-        "image_url": "https://tululu.org/shots/8595.jpg",
-        "book_path": "parse_result/books/8559.Justitia - est Часть 1.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/8559.Justitia - est Часть 1.txt",
+        "img_path": "media/book_covers/nopic.gif"
     },
     {
         "title": "Астронавт Джонс",
@@ -361,8 +337,8 @@
             "Книга явно написана для молодёжи от 10-ти до 20-ти. Хайнлайн всегда читается легко, сюжет неплохо закручен, но эта книга не входит в список лучших его произведений. Хотя, допускаю, что при хорошем переводе она выглядела бы лучше.Но перевод ниже всякой критики, да и орфографические ошибки сбивают... Похоже на компьютерный перевод с легкой правкой невнимательным или малограмотным корректором. Почему, например, команда проводит обсервации, а не наблюдения? Смысл понятен, но в русском языке есть устойчивое выражнение \"провести наблюдения\". Нормальный переводчик с филологическим образованием не допускал бы подобных ляпов. Тем не менее книгу прочитал с удовольствием."
         ],
         "image_url": "https://tululu.org/shots/8902.jpg",
-        "book_path": "parse_result/books/8902.Астронавт Джонс.txt",
-        "img_path": "parse_result/book_covers/8902.jpg"
+        "book_path": "media/books/8902.Астронавт Джонс.txt",
+        "img_path": "media/book_covers/8902.jpg"
     },
     {
         "title": "Будет скафандр - будут и путешествия",
@@ -384,8 +360,8 @@
             "Больше бы таких книг! То, что сейчас печатают...!!! КНИГА должна иметь смысл и давать стимул для развития человека. Это одна из них."
         ],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/9080.Будет скафандр - будут и путешествия.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/9080.Будет скафандр - будут и путешествия.txt",
+        "img_path": "media/book_covers/nopic.gif"
     },
     {
         "title": "Дочь Нефертити",
@@ -407,8 +383,8 @@
             "Мне 65, но книгу прочитал за присест. Татьяна, пишите еще. Мы вас любим."
         ],
         "image_url": "https://tululu.org/shots/9402.jpg",
-        "book_path": "parse_result/books/9402.Дочь Нефертити.txt",
-        "img_path": "parse_result/book_covers/9402.jpg"
+        "book_path": "media/books/9402.Дочь Нефертити.txt",
+        "img_path": "media/book_covers/9402.jpg"
     },
     {
         "title": "Наложница императора",
@@ -424,8 +400,8 @@
             "Нужно прочитать не только подросткам, но и взрослым. Жаль, что вшколе нам этого не рассказывали."
         ],
         "image_url": "https://tululu.org/shots/10768.jpg",
-        "book_path": "parse_result/books/10768.Наложница императора.txt",
-        "img_path": "parse_result/book_covers/10768.jpg"
+        "book_path": "media/books/10768.Наложница императора.txt",
+        "img_path": "media/book_covers/10768.jpg"
     },
     {
         "title": "Общая теория Доминант",
@@ -447,46 +423,8 @@
             "Полнейшая чушь. Более подробно читайте в отзыве Александра."
         ],
         "image_url": "https://tululu.org/shots/10923.jpg",
-        "book_path": "parse_result/books/10923.Общая теория Доминант.txt",
-        "img_path": "parse_result/book_covers/10923.jpg"
-    },
-    {
-        "title": "Программируемый мальчик (педагогическая фантастика)",
-        "author": "Тюрин Александр Владимирович",
-        "genres": [
-            "Детская фантастика",
-            "Киберпанк",
-            "Научная фантастика"
-        ],
-        "comments": [],
-        "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/10923.Общая теория Доминант.txt",
-        "img_path": "parse_result/book_covers/10923.jpg"
-    },
-    {
-        "title": "Войны Сорока Островов (Часть первая)",
-        "author": "Лукьяненко Сергей Васильевич",
-        "genres": [
-            "Детская фантастика",
-            "Научная фантастика"
-        ],
-        "comments": [
-            "В последних словах объясняющих книгу в целом, я просто остановился и думал..., а ведь правда всё именно так. ",
-            "Администратор, модератор, в общем тот человек, что отвечает за расположение книг. Повесть называется \"Рыцари сорока островов\". Было бы неплохо исправить;)",
-            "Замечательная повесть! Читается на одном дыхании...последний комментарий автора, действительно, просто необходим!",
-            "Валентину: Название книги указанно верно, по сути это продолжение \"рыцарей\" т.е. следующая книга.",
-            "Больше похоже на философию, чем на фантастику.",
-            "Читал рыцарей два раза. Хотелось бы продолжения! Автор, я в тебя верю, что ты напишешь!",
-            "А мне кажется книга очень жесткой, и хотя главные герои-дети, совсем не детской. Но написано хорошо.",
-            "Сергей Васильевич, а ведь и правда надо бы дописать продолжение. Я очень люблю и уважаю все Ваше творчество, но эта книга - одна из моих самых любимых, она невероятно философская и сильная. Надеюсь, когда-нибудь Вы все же допишете ее :))",
-            "Все книги Сергея Лукьяненко философские. О фантастике даже не думаешь, потому что всё очень жизненно. Спасибо!",
-            "Книга хорошая. Давал детям читать когда им было по 10-12 лет, нравилась. И сейчас о ней хорошо вспоминают. Согласен, что книга сложная, но дети читали на одном дыхании, спрашивали продолжения, книга не просто читалась, а еще заставляла думать, сопереживать. Продолжение нужно!!!",
-            "Понравилось, жду продолжения!!!",
-            "Если вы еще не читали Лукьяненко, советую начинать с этой книги. Она, как простая но забойная песня в концерте, покажет вам, ваш ли это автор. (Мне ОЧЕНЬ нравтися)."
-        ],
-        "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/10923.Общая теория Доминант.txt",
-        "img_path": "parse_result/book_covers/10923.jpg"
+        "book_path": "media/books/10923.Общая теория Доминант.txt",
+        "img_path": "media/book_covers/10923.jpg"
     },
     {
         "title": "Взгляд из сердца",
@@ -500,8 +438,8 @@
         ],
         "comments": [],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/12795.Взгляд из сердца.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/12795.Взгляд из сердца.txt",
+        "img_path": "media/book_covers/nopic.gif"
     },
     {
         "title": "Звездный зверь ( Звездное чудовище)",
@@ -516,20 +454,8 @@
             "Рекомендую всем!!!!!!!!!!!"
         ],
         "image_url": "https://tululu.org/shots/13038.jpg",
-        "book_path": "parse_result/books/13038.Звездный зверь ( Звездное чудовище).txt",
-        "img_path": "parse_result/book_covers/13038.jpg"
-    },
-    {
-        "title": "Красный сфинкс",
-        "author": "Прашкевич Геннадий Мартович",
-        "genres": [
-            "Научная фантастика",
-            "Прочая документальная литература"
-        ],
-        "comments": [],
-        "image_url": "https://tululu.org/shots/14480.jpg",
-        "book_path": "parse_result/books/13038.Звездный зверь ( Звездное чудовище).txt",
-        "img_path": "parse_result/book_covers/13038.jpg"
+        "book_path": "media/books/13038.Звездный зверь ( Звездное чудовище).txt",
+        "img_path": "media/book_covers/13038.jpg"
     },
     {
         "title": "Сборник рассказов и повестей",
@@ -541,8 +467,8 @@
         ],
         "comments": [],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/16092.Сборник рассказов и повестей.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/16092.Сборник рассказов и повестей.txt",
+        "img_path": "media/book_covers/nopic.gif"
     },
     {
         "title": "...Яко помниши его",
@@ -570,8 +496,8 @@
             "Хорошая книга. К админам, не плохо было бы если бы вы прописали год выхода книги в печать. Спасибо."
         ],
         "image_url": "https://tululu.org/shots/18919.jpg",
-        "book_path": "parse_result/books/18919....Яко помниши его.txt",
-        "img_path": "parse_result/book_covers/18919.jpg"
+        "book_path": "media/books/18919....Яко помниши его.txt",
+        "img_path": "media/book_covers/18919.jpg"
     },
     {
         "title": "...На Вавилон",
@@ -587,8 +513,8 @@
             "Интересно, но концовка разочаровала... Ожидала большего."
         ],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/18920....На Вавилон.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/18920....На Вавилон.txt",
+        "img_path": "media/book_covers/nopic.gif"
     },
     {
         "title": "...Вставьте шплинт А в гнездо Б...",
@@ -612,8 +538,8 @@
             "Lokonicno."
         ],
         "image_url": "https://tululu.org/shots/18921.jpg",
-        "book_path": "parse_result/books/18921....Вставьте шплинт А в гнездо Б.txt",
-        "img_path": "parse_result/book_covers/18921.jpg"
+        "book_path": "media/books/18921....Вставьте шплинт А в гнездо Б.txt",
+        "img_path": "media/book_covers/18921.jpg"
     },
     {
         "title": "...к звездам!",
@@ -625,8 +551,8 @@
             "Спасибо за полученное удовольствие."
         ],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/18922....к звездам!.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/18922....к звездам!.txt",
+        "img_path": "media/book_covers/nopic.gif"
     },
     {
         "title": "1-книга. Весна на Галане",
@@ -641,8 +567,8 @@
             "А мне понравилось всё. Просто нужно читать не отвлекаясь, а не в метро:). Тогда полнее погружаешься в созданный мир, чему и способствует подробное описание."
         ],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/18926.1-книга. Весна на Галане.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/18926.1-книга. Весна на Галане.txt",
+        "img_path": "media/book_covers/nopic.gif"
     },
     {
         "title": "10-я книга. Варкенские перемены.",
@@ -654,8 +580,8 @@
             "Я ставлю 4."
         ],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/18928.10-я книга. Варкенские перемены.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/18928.10-я книга. Варкенские перемены.txt",
+        "img_path": "media/book_covers/nopic.gif"
     },
     {
         "title": "11-я книга. Рождение империи сенсетивов",
@@ -668,8 +594,8 @@
             "Спасибо огромное, жду с нетерпением 16 книгу. Почему о вас нигде нет информации.? Пишете очень интересно-погрузилась в этот мир с удовольствием."
         ],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/18929.11-я книга. Рождение империи сенсетивов.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/18929.11-я книга. Рождение империи сенсетивов.txt",
+        "img_path": "media/book_covers/nopic.gif"
     },
     {
         "title": "13-я книга. Галанское сватовство",
@@ -679,8 +605,8 @@
         ],
         "comments": [],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/18930.13-я книга. Галанское сватовство.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/18930.13-я книга. Галанское сватовство.txt",
+        "img_path": "media/book_covers/nopic.gif"
     },
     {
         "title": "132-й",
@@ -696,8 +622,8 @@
             "Сейчас пол страны такие -вот капитаны. И молодежь такой воспитывается. Молодец Макаов!"
         ],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/18931.132-й.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/18931.132-й.txt",
+        "img_path": "media/book_covers/nopic.gif"
     },
     {
         "title": "14-я книга. Барабаны Таланов",
@@ -707,8 +633,8 @@
         ],
         "comments": [],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/18932.14-я книга. Барабаны Таланов.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/18932.14-я книга. Барабаны Таланов.txt",
+        "img_path": "media/book_covers/nopic.gif"
     },
     {
         "title": "15-я книга. Школа арханелов",
@@ -718,8 +644,8 @@
         ],
         "comments": [],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/18933.15-я книга. Школа арханелов.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/18933.15-я книга. Школа арханелов.txt",
+        "img_path": "media/book_covers/nopic.gif"
     },
     {
         "title": "2-я книга. Сенсетивы Галана",
@@ -729,8 +655,8 @@
         ],
         "comments": [],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/18935.2-я книга. Сенсетивы Галана.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/18935.2-я книга. Сенсетивы Галана.txt",
+        "img_path": "media/book_covers/nopic.gif"
     },
     {
         "title": "4-я книга. Экспедиция на Голубой планетоид",
@@ -740,8 +666,8 @@
         ],
         "comments": [],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/18936.4-я книга. Экспедиция на Голубой планетоид.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/18936.4-я книга. Экспедиция на Голубой планетоид.txt",
+        "img_path": "media/book_covers/nopic.gif"
     },
     {
         "title": "5-я книга. В подземельях Бидрупа.",
@@ -751,8 +677,8 @@
         ],
         "comments": [],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/18937.5-я книга. В подземельях Бидрупа.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/18937.5-я книга. В подземельях Бидрупа.txt",
+        "img_path": "media/book_covers/nopic.gif"
     },
     {
         "title": "53-я американская мечта",
@@ -765,8 +691,8 @@
             "Вы можете долго искать смысл в этом рассказе, но так и не найти. В этом, наверное, и была цель автора."
         ],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/18938.53-я американская мечта.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/18938.53-я американская мечта.txt",
+        "img_path": "media/book_covers/nopic.gif"
     },
     {
         "title": "6-я книга. Сражение за Бидруп.",
@@ -776,8 +702,8 @@
         ],
         "comments": [],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/18939.6-я книга. Сражение за Бидруп.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/18939.6-я книга. Сражение за Бидруп.txt",
+        "img_path": "media/book_covers/nopic.gif"
     },
     {
         "title": "64-клеточный дурдом",
@@ -789,8 +715,8 @@
             "Заставляет задуматься- человек против мной машины или наоборот. Понравится любителям шахматных игр- книга для вас."
         ],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/18940.64-клеточный дурдом.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/18940.64-клеточный дурдом.txt",
+        "img_path": "media/book_covers/nopic.gif"
     },
     {
         "title": "7-я книга. День Откровения",
@@ -800,8 +726,8 @@
         ],
         "comments": [],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/18941.7-я книга. День Откровения.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/18941.7-я книга. День Откровения.txt",
+        "img_path": "media/book_covers/nopic.gif"
     },
     {
         "title": "8-я книга. Полет Уригленны.",
@@ -811,7 +737,591 @@
         ],
         "comments": [],
         "image_url": "https://tululu.org/images/nopic.gif",
-        "book_path": "parse_result/books/18942.8-я книга. Полет Уригленны.txt",
-        "img_path": "parse_result/book_covers/nopic.gif"
+        "book_path": "media/books/18942.8-я книга. Полет Уригленны.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "9-я книга. Тарат Зурбин",
+        "author": "Карр Алекс",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18943.9-я книга. Тарат Зурбин.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "90х60х90",
+        "author": "Берендеев Кирилл",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [
+            "Ни фантастики, ни фэнтези, обычный детектив... Про обычную жизненную ситуацию... Правда, пара диалогов заставили задуматься, но не более..."
+        ],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18944.90х60х90.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "995-й святой",
+        "author": "Цветков Юрий",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18945.995-й святой.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А, Критика!",
+        "author": "Еськов Кирилл",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18946.А, Критика!.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "АНТОЛОГИЯ СКАНДИНАВСКОЙ ФАНТАСТИКИ",
+        "author": "Бойе Карин",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [
+            "Занудная хоть и фантастика.",
+            "Правда занудная, хоть и фантастика.",
+            "Ну, занудная, ну, фантастика. А все равно интересно было прочитать.",
+            "Очень информативно и эмоционально содержательно))) Характеристика - \"занудно\", просто разжигает желание прочитать! Качаю!!!",
+            "Книга впечатляющая. Не сказать что очень интересная, но подходящего эпитета не подберу. Доведение идеи до л о г и ч н о г о абсурда. И вторая мысль, что человек может ко всему, к любым условиям привыкнуть. А не сам так следующее поколение. Человек слаб в смысле физических условий, но приспособляемость у него большая.",
+            "Поочеемуу занууудноо??? Для скаандинннааввии оооччееньь дажжее дииннаммиичнооо."
+        ],
+        "image_url": "https://tululu.org/shots/18949.jpg",
+        "book_path": "media/books/18949.АНТОЛОГИЯ СКАНДИНАВСКОЙ ФАНТАСТИКИ.txt",
+        "img_path": "media/book_covers/18949.jpg"
+    },
+    {
+        "title": "А бог един",
+        "author": "Амнуэль Песах",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18952.А бог един.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А была ли тайна",
+        "author": "Купцов Василий",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18953.А была ли тайна.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А человек забудет",
+        "author": "Трусов Сергей",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18954.А человек забудет.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А что будет",
+        "author": "Браун Фредерик",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18955.А что будет.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А что с ними делать дальше?",
+        "author": "Фостер Алан Дин",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [
+            "Этот расказ интересен тока короткий больно охота проду : )",
+            "Мне понравилось. Только я думала, что йоппы - это все-таки мы земляне.",
+            "Очень понравилась книга.",
+            "Не поцимаю, почему такая низкая оценка.",
+            "Интересно. Много места для фантазии."
+        ],
+        "image_url": "https://tululu.org/shots/18956.jpg",
+        "book_path": "media/books/18956.А что с ними делать дальше.txt",
+        "img_path": "media/book_covers/18956.jpg"
+    },
+    {
+        "title": "А дом стоит себе спокойно (Вечный дом)",
+        "author": "Ван Вогт Альфред",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18958.А дом стоит себе спокойно (Вечный дом).txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А еще мы выгуливаем собак",
+        "author": "Хайнлайн Роберт",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [
+            "Легенький рассказик о фирме оказующей ну просто любые услуги.",
+            "Рекомдую у Ханлайнф плохих книг нетю.",
+            "Хайнлайн - замечателен!!!"
+        ],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18959.А еще мы выгуливаем собак.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А где же Рошар",
+        "author": "Глазков Юрий",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18960.А где же Рошар.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А и Е",
+        "author": "Стульник Сергей",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18961.А и Е.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А я пойду дальше",
+        "author": "Лейбер Фриц",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18962.А я пойду дальше.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А как же еще",
+        "author": "Каттнер Генри",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [
+            "Чудесный юмор )"
+        ],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18963.А как же еще.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А мне до них",
+        "author": "Корепанов Алексей",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18964.А мне до них.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А могла бы и быть",
+        "author": "Григорьев Владимир",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18965.А могла бы и быть.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А моя мама - ведьма!",
+        "author": "Тенн Уильям",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [
+            "Весьма рекомендую. Магия глазами ребёнка, рассказ - троюродный брат шурина кума знакомой подруги от того фильма \"Лабиринт Фавна\"... В общем читаем."
+        ],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18966.А моя мама - ведьма!.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А мы лезем в окно",
+        "author": "Молзберг Барри",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [
+            "По этому рассказу я поставил номер в институте культуры еще  в 1990 году. До сих пор его признают как шедевр студенческого мастерства. Пытались некоторые поставить по-своему, но когда им Евгений Вандалковский рассказывал как ЭТО было - делали реверанс и искали другой материал."
+        ],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18967.А мы лезем в окно.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А она уходила",
+        "author": "Дымов Феликс Яковлевич",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18969.А она уходила.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А поезд идет",
+        "author": "Ашкинази Леонид",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18970.А поезд идет.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А роза упала на лапу Азора",
+        "author": "Осинский Владимир",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18971.А роза упала на лапу Азора.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А вдруг они победят",
+        "author": "Белен",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18972.А вдруг они победят.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А вдруг",
+        "author": "Грешнов Михаил",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18973.А вдруг.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А все из-за любви",
+        "author": "Гуларт Рон",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [
+            "Очень точное название. Нельзя в любовных делах полагаться на других, нужно самому принимать решения. О цене ошибки, ее последствиях..."
+        ],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18974.А все из-за любви.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А всходы будут не скоро",
+        "author": "Чешко Федор",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18977.А всходы будут не скоро.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А вы не верили",
+        "author": "Ягупова Светлана",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18978.А вы не верили.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А за тобой придет генерал",
+        "author": "Воробьев Борис",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18979.А за тобой придет генерал.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "А жизнь идёт",
+        "author": "Бояндин Константин",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18980.А жизнь идёт.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "Ааст Ллун - архитектор неба",
+        "author": "Гуревич Георгий Иосифович",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [
+            "В детстве зачитывалась этой книгой, но и тогда поражала как сила воли человеческая, так и то, что нерешенные проблемы были, есть и всегда будут.",
+            "Сначала тяжело было читать, много непонятного, но затем втянувшись не могла оторваться. Интересное повествование путешествия главного героя, описываются мелкие детали жизни разных народов.",
+            "Вся советская фантастика прекрасна."
+        ],
+        "image_url": "https://tululu.org/shots/18981.jpg",
+        "book_path": "media/books/18981.Ааст Ллун - архитектор неба.txt",
+        "img_path": "media/book_covers/18981.jpg"
+    },
+    {
+        "title": "Абадон",
+        "author": "Купцов Василий",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18982.Абадон.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "Абицелла",
+        "author": "Попогребский П",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18984.Абицелла.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "Абракадабра",
+        "author": "Рассел Эрик Фрэнк",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [
+            "забавная история. Рекомендую)",
+            "Вот история о том, до чего может довести желание во что бы то ни стало угодить проверяющему чиновнику! Да уж, и что ж делать-то ему теперь?... ",
+            "Оргазм просто! Жаль, что читал впервые ещё в детстве! Рассела рекомендую для всех возрастов!"
+        ],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18986.Абракадабра.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "Абсолютная Энциклопедия. Том 2",
+        "author": "Диксон Гордон",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [
+            "Horoschaya zahvatyvayuschaya kniga, spasibo vam otdohnul."
+        ],
+        "image_url": "https://tululu.org/shots/18987.jpg",
+        "book_path": "media/books/18987.Абсолютная Энциклопедия. Том 2.txt",
+        "img_path": "media/book_covers/18987.jpg"
+    },
+    {
+        "title": "Абсолютная гарантия",
+        "author": "Иванов Борис",
+        "genres": [
+            "Детективная фантастика",
+            "Космическая фантастика",
+            "Научная фантастика"
+        ],
+        "comments": [
+            "книга, как и вся серия, как и все творчество автора очень хороша. Настоятельно рекомендую.",
+            "Так... Почитать можно что бы время убить.",
+            "Спасибо автору за книгу! Люблю фантастику.",
+            "Одолел только одну треть книги - очень нудная и не интересная книга.\nПовествование рваное, сюжет не захватывает, ощущения фантастики - нет.\nОстальные книги этого автора читаются еще труднее. НЕ советую.",
+            "Книга довольно таки интересная. Сразу, так сказать, с головой в сюжет. Автор -- молодец.",
+            "Очень запутано в начале, многое не связанно между собой, но написано оригинально.",
+            "Временами не фантастика, временами фантастика. Сюжет скачет. Но дочитал до конца, захватило. Интересно, есть ли продолжение у автора по этой теме.",
+            "Книга очень понравилась, не фаст фуд, несколько сюжетных линий, не плоский мир, автор создал целостную картину, включив и философию, и религию, и фантазию.",
+            "Интересный фантастический детектив. Советую.",
+            "Хорошая книга. Но не фантастика:)",
+            "Интересный сюжет, читала даже больше как детектив, чем как фантастику! Мне понравилось!",
+            "Очень понравилась. Детектив+фантастика.",
+            "Интересный фантастический детектив.",
+            "Заинтриговали...",
+            "Тянула как жвачку, даже до середины не дошла, нудятина.",
+            "Прикольно, мне понравилось.",
+            "Вполне можно прочитать, время пройдёт с удовольствием.",
+            "Написано блестяще, только конец на месте автора, я бы сделала другим. А-то получилось, что книга для взрослых, а заканчивается подростковыми соплями. Здесь это смешение не очень уместно!",
+            "Отличная книга. Обязательно читать до конца!!!",
+            "Очень прилично!"
+        ],
+        "image_url": "https://tululu.org/shots/18988.jpg",
+        "book_path": "media/books/18988.Абсолютная гарантия.txt",
+        "img_path": "media/book_covers/18988.jpg"
+    },
+    {
+        "title": "Абсолютная полиция",
+        "author": "Лисин Валерий",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18990.Абсолютная полиция.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "Абсолютная правда",
+        "author": "Коростелев Дмитрий",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18991.Абсолютная правда.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "Абсолютная пустота (предисловие)",
+        "author": "Лем Станислав",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [
+            "А что писать, я ничего не нашла! Где это предесловие?"
+        ],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18992.Абсолютная пустота (предисловие).txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "Абсолютная технократия",
+        "author": "Альдани Лино",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [
+            "Ожидала большего. Идея очень интересная, но в рассказе не раскрыта до конца!"
+        ],
+        "image_url": "https://tululu.org/shots/18993.jpg",
+        "book_path": "media/books/18993.Абсолютная технократия.txt",
+        "img_path": "media/book_covers/18993.jpg"
+    },
+    {
+        "title": "Абсолютно невозможно",
+        "author": "Силверберг Роберт",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18994.Абсолютно невозможно.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "Абсолютное Оружие",
+        "author": "Ершов Юрий",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18995.Абсолютное Оружие.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "Абсолютное оружие Горгон",
+        "author": "Щербаков Владимир",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18996.Абсолютное оружие Горгон.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "Абсолютное счастье",
+        "author": "Якименко Константин",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [
+            "Спасибо автору! Рассказ не для всех, но для тех кто пытается понять суть жизни. Вцелом интересно и необычно!",
+            "Не пожалей 15 минут -прочти."
+        ],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/18999.Абсолютное счастье.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "Абсолютное время",
+        "author": "Бялецкий Януш",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/19000.Абсолютное время.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "Абсолютный хрум",
+        "author": "Тарабанов Дмитрий",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/19001.Абсолютный хрум.txt",
+        "img_path": "media/book_covers/nopic.gif"
+    },
+    {
+        "title": "Абстиненция",
+        "author": "Нестеренко Юрий",
+        "genres": [
+            "Научная фантастика"
+        ],
+        "comments": [],
+        "image_url": "https://tululu.org/images/nopic.gif",
+        "book_path": "media/books/19002.Абстиненция.txt",
+        "img_path": "media/book_covers/nopic.gif"
     }
 ]
