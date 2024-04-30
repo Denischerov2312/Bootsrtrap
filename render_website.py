@@ -21,13 +21,13 @@ def split_and_save_page_books(books):
     template = env.get_template('template.html')
     os.makedirs('pages/', exist_ok=True)
     pages_of_book = chunked(books, 14)
-    count_page = ceil(len(books) / 14)
+    page_count = ceil(len(books) / 14)
     for number, page in enumerate(pages_of_book, 1):
         filepath = f'pages/index{number}.html'
         if number == 1:
             filepath = 'pages/index.html'
         rendered_page = template.render(books=chunked(page, 2),
-                                        count_page=count_page,
+                                        page_count=page_count,
                                         current_page=number,
                                         )
         with open(filepath, 'w', encoding="utf8") as file:
@@ -40,10 +40,10 @@ def on_reload(books):
         autoescape=select_autoescape(['html', 'xml'])
     )
     template = env.get_template('template.html')
-    count_page = ceil(len(books) / 14)
+    page_count = ceil(len(books) / 14)
     current_page = 1
     rendered_page = template.render(books=chunked(books, 2),
-                                    count_page=count_page,
+                                    page_count=page_count,
                                     current_page=current_page,
                                     )
     with open('index.html', 'w', encoding="utf8") as file:

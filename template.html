@@ -30,10 +30,10 @@
             </li>
           {% endif %}
           <li class="page-item"><a class="page-link" href="../pages/index.html">1</a></li>
-          {% for number in range(2, count_page) %}
+          {% for number in range(2, page_count) %}
             <li class="page-item"><a class="page-link" href="../pages/index{{number}}.html">{{number}}</a></li>
           {% endfor %}
-          {% if current_page >= (count_page - 1) %}
+          {% if current_page >= (page_count - 1) %}
             <li class="page-item disabled">
               <a class="page-link" href="../pages/index{{current_page + 1}}.html" aria-disabled="true">Next</a>
             </li>
