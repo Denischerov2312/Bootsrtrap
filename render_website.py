@@ -1,6 +1,7 @@
 import os
 import json
 import argparse
+from urllib.parse import urljoin
 from math import ceil
 
 from livereload import Server
@@ -19,6 +20,7 @@ def get_books(filepath):
 
 
 def split_and_save_page_books(books, dest_folder):
+    dest_folder = f'{dest_folder}/' if dest_folder[-1] != '/' else dest_folder
     env = Environment(
         loader=FileSystemLoader('.'),
         autoescape=select_autoescape(['html', 'xml'])
@@ -28,9 +30,9 @@ def split_and_save_page_books(books, dest_folder):
     pages_of_book = chunked(books, BOOKS_ON_PAGE_COUNT)
     page_count = ceil(len(books) / BOOKS_ON_PAGE_COUNT)
     for number, page in enumerate(pages_of_book, 1):
-        filepath = f'{dest_folder}index{number}.html'  #TODO прописать через join
+        filepath = urljoin(dest_folder, f'index{number}.html')
         if number == 1:
-            filepath = f'{dest_folder}index.html'   #TODO прописать через join
+            filepath = urljoin(dest_folder, 'index.html')
         rendered_page = template.render(books=chunked(page, BOOK_COUTN_IN_LINE),
                                         page_count=page_count,
                                         current_page=number,
