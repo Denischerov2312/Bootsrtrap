@@ -4,7 +4,7 @@
  ## Как запустить?
  Для запуска сайта вам понадобится Python третьей версии.
 
-Скачайте код с GitHub. Затем установите зависимости
+Скачайте код с GitHub. Затем установите необходимые библиотеки:
 
 ```sh
 pip install -r requirements.txt
@@ -13,11 +13,20 @@ pip install -r requirements.txt
 ```sh
 python render_website.py
 ```
-Готово!
 Версия локального сайта будет доступен по [ссылке](http://127.0.0.1:5500/pages/index.html) - `http://127.0.0.1:5500/pages/index.html`.
-
-
 Также доступна [онлайн версия сайта](https://denischerov2312.github.io/Bootsrtrap/pages/) - `https://denischerov2312.github.io/Bootsrtrap/pages/`.
+
+## Найстройка скрипта
+
+Скрипт имеет две опциональные(необязательные) настройки:
+- `dest_folder` — папка, содержащая html-страницы. По дефолту стоит `pages/`.
+- `books_file` — файл с данными о книгах в формате `.json`. По умолчанию `books.json`.
+
+Вот пример как использовать эти настройки в командной строке
+```sh
+python render_website.py --dest_folder ИМЯ_ПАПКИ --books_file ИМЯ_ФАЙЛА
+```
+Для получения вышеупомянутых данных, можете воспользоваться моим [прошлым проектом](https://github.com/Denischerov2312/Parse_books).
 ### Цели проекта
 Код написан в учебных целях — это урок в курсе по Python и веб-разработке на сайте [Devman](https://dvmn.org).
 
