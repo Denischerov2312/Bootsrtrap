@@ -16,28 +16,28 @@
         <ul class="pagination justify-content-end">
           {% if current_page == 2 %}
             <li class="page-item">
-              <a class="page-link" href="../{{dest_folder}}index.html" tabindex="-1" aria-disabled="true">Previous</a>
+              <a class="page-link" href="{{ '../{{dest_folder|urlencode}}index.html' }}" tabindex="-1" aria-disabled="true">Previous</a>
             </li>        
           {% elif current_page == 1 %}
             <li class="page-item disabled">
-              <a class="page-link" href="../{{dest_folder}}index{{current_page - 1}}.html" tabindex="-1" aria-disabled="true">Previous</a>
+              <a class="page-link" href="../{{dest_folder|urlencode}}index{{current_page - 1}}.html" tabindex="-1" aria-disabled="true">Previous</a>
             </li>
           {% else %}
             <li class="page-item">
-              <a class="page-link" href="../{{dest_folder}}index{{current_page - 1}}.html" tabindex="-1">Previous</a>
+              <a class="page-link" href="../{{dest_folder|urlencode}}index{{current_page - 1}}.html" tabindex="-1">Previous</a>
             </li>
           {% endif %}
-          <li class="page-item"><a class="page-link" href="../{{dest_folder}}index.html">1</a></li>
+          <li class="page-item"><a class="page-link" href="../{{dest_folder|urlencode}}index.html">1</a></li>
           {% for number in range(2, page_count) %}
-            <li class="page-item"><a class="page-link" href="../{{dest_folder}}index{{number}}.html">{{number}}</a></li>
+            <li class="page-item"><a class="page-link" href="../{{dest_folder|urlencode}}index{{number}}.html">{{number}}</a></li>
           {% endfor %}
           {% if current_page >= (page_count - 1) %}
             <li class="page-item disabled">
-              <a class="page-link" href="../{{dest_folder}}index{{current_page + 1}}.html" aria-disabled="true">Next</a>
+              <a class="page-link" href="../{{dest_folder|urlencode}}index{{current_page + 1}}.html" aria-disabled="true">Next</a>
             </li>
           {% else %}
             <li class="page-item">
-              <a class="page-link" href="../{{dest_folder}}index{{current_page + 1}}.html" aria-disabled="false">Next</a>
+              <a class="page-link" href="../{{dest_folder|urlencode}}index{{current_page + 1}}.html" aria-disabled="false">Next</a>
             </li>
           {% endif %}
         </ul>
@@ -51,7 +51,7 @@
           <div class="card mb-3" style="width: 540px; height: 300px; margin-right: 15px; margin-bottom: 3px; margin-top: 3px;" >
               <div class="row no-gutters">
                 <div class="col-md-4">
-                  <img src="../{{book['img_path']|urlencode}}" class="card-img" alt="Обложка книги">
+                  <img src="../{{ book['img_path']|urlencode }}" class="card-img" alt="Обложка книги">
                 </div>
                 <div class="col-md-8">
                   <div class="card-body">
@@ -60,7 +60,7 @@
                       <span class="badge badge-pill badge-light">{{genre}}</span>
                     {% endfor %}
                     <p class="card-text">
-                      <a href="../{{book.book_path}}" target="_blank">Читать</a>
+                      <a href="../{{ book.book_path|urlencode }}" target="_blank">Читать</a>
                     </p>
                   </div>
                 </div>
