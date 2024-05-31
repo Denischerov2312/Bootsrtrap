@@ -16,7 +16,7 @@
         <ul class="pagination justify-content-end">
           {% if current_page == 2 %}
             <li class="page-item">
-              <a class="page-link" href="{{ '../{{dest_folder|urlencode}}index.html' }}" tabindex="-1" aria-disabled="true">Previous</a>
+              <a class="page-link" href="../{{dest_folder|urlencode}}index.html" tabindex="-1" aria-disabled="true">Previous</a>
             </li>        
           {% elif current_page == 1 %}
             <li class="page-item disabled">
