@@ -31,7 +31,7 @@
           {% if current_page == 1 %}
             <li class="page-item active"><a class="page-link" href="../{{dest_folder|urlencode}}index.html">1</a></li>
           {% else %}
-          <li class="page-item"><a class="page-link" href="../{{dest_folder|urlencode}}index.html">1</a></li>
+            <li class="page-item"><a class="page-link" href="../{{dest_folder|urlencode}}index.html">1</a></li>
           {% endif %}
 
           {% for number in range(2, page_count) %}
@@ -41,7 +41,7 @@
               <li class="page-item"><a class="page-link" href="../{{dest_folder|urlencode}}index{{number}}.html">{{number}}</a></li>
             {% endif %}
           {% endfor %}
-          
+
           {% if current_page >= (page_count - 1) %}
             <li class="page-item disabled">
               <a class="page-link" href="../{{dest_folder|urlencode}}index{{current_page + 1}}.html" aria-disabled="true">Next</a>
